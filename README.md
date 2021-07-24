@@ -8,7 +8,6 @@
   
   - Criar tarefas 
   - Excluir tarefas 
-  - deleta tarefas
 
 ## Tecnologias usadas
 
