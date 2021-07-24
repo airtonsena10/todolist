@@ -7,6 +7,7 @@
   ## Fucionalidades
   
   - Criar tarefas 
+  - marca como concluido
   - Excluir tarefas 
 
 ## Tecnologias usadas
